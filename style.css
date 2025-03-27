@@ -1,0 +1,92 @@
+*{
+    margin-left: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0px;
+    
+}
+.section-one{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.section-one__contact a{
+    color: white;
+    background-color: red;
+    padding: 5px;
+    text-decoration: none;
+    
+}
+
+.section-three{
+    background-color: blueviolet;
+    padding: 20px;
+    display: inline-block;
+    height: 208px;
+    border-radius: 6px;
+    vertical-align: top;
+}
+.section-three_about{
+    margin-right: 5px;
+
+}
+.section-three li{
+    list-style: none;
+    padding: 2px;
+}
+
+.section-four{
+    background-color: aqua;
+    display: inline-block;
+    border-radius: 6px;
+    margin-left: 2px;
+    vertical-align: top;
+}
+.section-four li{
+    list-style: none;
+}
+
+.section-five{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-top: 15px;
+}
+.section-five_about a{
+    color: aqua;
+}
+
+.section-a{
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+.section-a__home a{
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    padding: 5px;
+}   
+.section-c{
+    margin-top: 30px;
+}
+.section-c__button{
+    color: black;
+    background-color: red;
+    padding: 5px;
+    margin-top: 8px;
+}
+.section-c__input,.section-c__textarea,.section-c__button{
+    padding: 5px;
+    margin-top: 8px;
+    border: transparent;
+    border-bottom: solid 1px black;
+}
+
+.section-b{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-top: 30px;
+}
+    
+
